@@ -80,7 +80,7 @@ int main() {
 ```
 
 ## Output:
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## Result:
 The program is executed successfully.
